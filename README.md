@@ -41,10 +41,6 @@ To tailor the simulation to your preferences, you can modify parameters such as:
 
 Your contributions to improve or enhance the simulation are welcome! Please fork the repository, make your changes, and create a pull request with your improvements.
 
-## License
-
-This project is released under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - **Special thanks to the SFML library for the graphics support.**
